@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gfx_resX>1920</gfx_resX>
+  <gfx_resY>1080</gfx_resY>
+  <gfx_fullscreen>false</gfx_fullscreen>
+  <gfx_orbitSmoothness>10000</gfx_orbitSmoothness>
+  <gfx_showfps>0</gfx_showfps>
+  <gui_showSystemLabels>0</gui_showSystemLabels>
+  <gui_showPlanetLabels>0</gui_showPlanetLabels>
+  <gui_show>0</gui_show>
+  <aud_music>0</aud_music>
+  <aud_soundfx>1</aud_soundfx>
+  <cameraScrollSpeed>5000</cameraScrollSpeed>
+  <inp_cameraUp>Up</inp_cameraUp>
+  <inp_cameraDown>Down</inp_cameraDown>
+  <inp_cameraRight>Left</inp_cameraRight>
+  <inp_cameraLeft>Right</inp_cameraLeft>
+  <inp_openConsole>OemTilde</inp_openConsole>
+  <inp_queueOrder>LeftShift</inp_queueOrder>
+  <show_console>0</show_console>
+</Config>

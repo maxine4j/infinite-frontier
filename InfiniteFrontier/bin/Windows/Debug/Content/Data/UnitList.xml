@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnitManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Unit>
+    <ID>0</ID>
+    <Name>Coloniser</Name>
+    <Cost>5</Cost>
+    <Description>A unit that can colonise planets</Description>
+    <IconIndex>0</IconIndex>
+    <GraphicIndex>5</GraphicIndex>
+    <Size>60</Size>
+    <Command>0</Command>
+    <Command>3</Command>
+    <Command>2</Command>
+    <!-- <PrerequisiteBuilding>3</PrerequisiteBuilding>-->
+    <HP>100</HP>
+    <Attack>0</Attack>
+    <Defense>20</Defense>
+    <Movement>2500</Movement>
+  </Unit>
+  <Unit>
+    <ID>1</ID>
+    <Name>Battle Ship</Name>
+    <Cost>5</Cost>
+    <Description>A large and powerful ship</Description>
+    <GraphicIndex>0</GraphicIndex>
+    <Size>150</Size>
+    <Command>0</Command>
+    <Command>1</Command>
+      <Command>2</Command>
+    <PrerequisiteBuilding>3</PrerequisiteBuilding>
+    <HP>1000</HP>
+    <Attack>100</Attack>
+    <Defense>60</Defense>
+    <Movement>3000</Movement>
+  </Unit>
+  <Unit>
+    <ID>2</ID>
+    <Name>Corvette</Name>
+    <Cost>40</Cost>
+    <Description>A mobile scouting ship</Description>
+    <IconIndex>0</IconIndex>
+    <GraphicIndex>2</GraphicIndex>
+    <Size>60</Size>
+    <Command>0</Command>
+    <Command>1</Command>
+    <Command>2</Command>
+    <PrerequisiteBuilding>3</PrerequisiteBuilding>
+    <HP>150</HP>
+    <Attack>15</Attack>
+    <Defense>5</Defense>
+    <Movement>10000</Movement>
+  </Unit>
+  <Unit>
+    <ID>3</ID>
+    <Name>Cruiser</Name>
+    <Cost>80</Cost>
+    <Description>Cruiser</Description>
+    <IconIndex>0</IconIndex>
+    <GraphicIndex>3</GraphicIndex>
+    <Size>120</Size>
+    <Command>0</Command>
+    <Command>1</Command>
+    <Command>2</Command>
+    <PrerequisiteBuilding>3</PrerequisiteBuilding>
+    <HP>700</HP>
+    <Attack>80</Attack>
+    <Defense>70</Defense>
+    <Movement>4000</Movement>
+  </Unit>
+  <Unit>
+    <ID>4</ID>
+    <Name>Destroyer</Name>
+    <Cost>50</Cost>
+    <Description>Destroyer</Description>
+    <IconIndex>0</IconIndex>
+    <GraphicIndex>4</GraphicIndex>
+    <Size>90</Size>
+    <Command>0</Command>
+    <Command>1</Command>
+    <Command>2</Command>
+    <PrerequisiteBuilding>3</PrerequisiteBuilding>
+    <HP>300</HP>
+    <Attack>60</Attack>
+    <Defense>50</Defense>
+    <Movement>5000</Movement>
+  </Unit>
+</UnitManager>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Atlas/Icons_1.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Atlas/Planets_1.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Atlas/Races_1.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Atlas/Units_1.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Backgrounds/Game.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Backgrounds/MainMenu.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Game/Stars/0.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/Button.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/CheckBox_False.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/CheckBox_True.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/ComboBox_Button.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/Form_Back.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/Form_Back_old.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/ProgressBar_Back.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/ProgressBar_Fill.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/ScrollBox_Back.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/ScrollBox_Button.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/ScrollBox_Highlight.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/ScrollBox_Scrubber.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/TechUnlocked.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/Controls/TextBox.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Interface/PlanetLabelBack.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Util/Default.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Graphics/Logo.png</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Fonts/Crillee_12.spritefont</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Fonts/Crillee_20.spritefont</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Audio/Ambience/Space.wav</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Audio/Effects/Click.wav</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Audio/Effects/GameOver.wav</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Audio/Effects/Thruster.wav</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Audio/Music/Ambience.wav</File>
+    <File>C:/Users/Tim/OneDrive/Programming/C#/Projects/InfiniteFrontier/InfiniteFrontier/Content/Audio/Music/Background.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
